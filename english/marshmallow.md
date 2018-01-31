@@ -1,44 +1,14 @@
 Once upon a time many authors collaborated to make meaningless linked story.
+  As it turned out it was absolute rubbish. Aoi tossed the story aside and 
+stepped out for a pizza. Pizza is the best, he thought. I've just got to get 
+some pizza, right this instant! So he grabbed his big blue winter coat, the 
+one with the hood. He pushed his arms through the sleeves and pulled the
+jacket up over his shoulders without stopping, nearly tripping as he ran out
+the walkway from his apartment and onto the main street. But which pizza 
+should Aoi get? 
 
-And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
-
-A few learned to [tango](tango/tango.md)
-
-Some preferred to
-Enter [The Forest!] (forest/forest.md)
-
-If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
-
-hi~
-
-NGE is [here] (NGE/NGE.md)
-
-[start](mad/mad.md) your journey into world of mad 
-
-or
-
-spend your time [wisely](http://www.pythonchallenge.com/)
-
-[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
-
-Are you a:
-
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
-
-or a 
-
-[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
-
-Your adventure begins. You realize there are hundreds of paths for you to choose from. 
-Which way should you go? Only you can decide. 
-
-Oh so many decisions - what will you do??
-
-In the end you will realize that it [doesn't really matter]
-(https://goo.gl/1fd4wU).
-The path you choose is as good as any.
-
-You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
+Should Aoi [run out the door](run_out_the_door/run_out_the_door.md) in any direction?
+Or should he [Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings?
 
 [Build time machine](time-machine/time-machine.md)
 
@@ -70,92 +40,6 @@ or
 
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
-
-It is time to begin your adventure.
-Your search for the grail begins [now](Monty-Python/search.md)
-
-Down one path you see a person standing in the middle of the path.
-They look familiar somehow, but you just can't figure out who they are.
-They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
-
-Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
-
-Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
-
-How about some [chill music](chillmusic/chillmusic.md)?
-
-[Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
-
-You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
-
-I also agree only way to find way is to keep climbing or walking or studying or learning or all of this is DOING.
-DOING will definitely keep your sharpened with latest skills (which you can get by the way from Udacity !!!)
-
-[Know about the life of this world](00-Life-of-this-world/Life of this world.md)
-
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
-
-Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
-
-Vist the master [liquid](liquid/liquid.md).
-
-Drink some [bear](bear/bear.md)
-
-[play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
-
-and search for your [destiny](destiny/destiny.md).
-
-Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
-
-Once you're warmed up, why not try a [work out?](work-out/work-out.md)
-
-or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
-
-After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
-
-You are are man (or woman) for all seasons but need help in choosing
-your travel destinations.. Of course we are happy to help you with these
-[suggestions](travel-destinations/travel-destinations.md)
-
-Meet a [Schrodingers cat](schrodinger-cat/schrodinger-cat.md)
-
-Another visitor! [Stay a while...](impossible-adventure/start/start.md)
-
-[I am the one who knocks](say-my-name/say-my-name.md)
-
-[The Secret to Life...Seriously](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[Some inspirational Lines](the-nights/the-nights.md)
-
-[Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
-
-One morning, you wake up in a strange room with marshmallows for walls.
-
-Marshmallows smell funny. What is a marshmallow anyway?
-
-Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
-
-Show him your [references](https://youtu.be/uZbjlsX0DNY?t=10s).
-
-The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
-
-*(Must be a Tuesday.)*
-
-Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
-
-Or a [Wednesday](make_changes_GitHub/make_changes_GitHub.md)...
-
-[Thursday](doug-adams/arthur-dent/arthur-dent.md)... maybe even a Friday, but definetely not a Saturday.
-
-Ok, we have to consider Saturday too.
-
-[this crazy thought popped into your head](yellow-baby-buggy-bumpers/yellow-baby-buggy-bumpers.md)
-
-Alice doesn't live here anymore, [or does she?](scarab/goddess.md)
-
-But not Monday; you never go out on a Sunday evening......[or do you](./or-do-you/or-do-you.md)?
-
-Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
 
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
 
@@ -1180,64 +1064,3 @@ If you want to play soccer, click [here](Soccer/soccer.md)
 
 If you are a soccer fan, see your team [here](soccerfan/soccerfan.md)
 
-I am also a soccer fan, I am a Man U fan from EPL. To see Man U click [here](ManU/ManU.md)
-
-Wow, you made it to the end!  You are determined, [see](persistent/persistent.md) what awaits.
-
-Wait! This is not the end! OMG [click me](never_ended/never_ended.md) 
-
-have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
-
-Join me in [Tree of Savior!](tos/tos.md)
-
-Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
-
-How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
-
-Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
-
-You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
-
-Jason Calacanis is one of the best interviewers I've seen. 
-[Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
-
-My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
-
-Maybe this is a [dream](dream/dream.md)?
-
-Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
-
-Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
-
-<<<<<<< HEAD
-Have you ever heard any unusual sounds 
-when you're alone? 
-They're not what you think. 
-Get to know them [here](blackAndwhite/blackAndwhite.md)
-
-=======
-Like football or soccer(as many others call it)? Must Watch 
-[The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
-
-Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
-
-What if I told that all this is just a bunch of [files](see-files/files.md)
->>>>>>> upstream/master
-
-A Story of Being Alone
-Read it [here](alone/alone.md)
-
-Information on some famous tv series
-[click here](famous-tv-series/famous-tv-series.md)
-
-I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
-
-Why are you reading this line? smile and move on.
-
-Smile and move on gingerly.
-
-What is your [passion?](passion/passion.md)
-
--
-
-searching for [good](tvf-play/watch.md) content.
